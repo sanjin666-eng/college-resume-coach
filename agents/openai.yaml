@@ -1,0 +1,8 @@
+interface:
+  display_name: "大学生 0-1 简历教练"
+  short_description: "从零制作简历，或根据岗位 JD 定制已有简历"
+  brand_color: "#4E7282"
+  default_prompt: "使用 $college-resume-coach 从零制作简历，或根据我提供的初版简历和岗位 JD 生成定制版本。"
+
+policy:
+  allow_implicit_invocation: true
