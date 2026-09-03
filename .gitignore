@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+outputs/
+examples/private/
+*.docx
+*.pdf
+*.html
+*.png
+*.jpg
+*.jpeg
+
